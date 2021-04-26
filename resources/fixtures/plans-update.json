@@ -1,0 +1,12 @@
+{
+    "before": {
+        "title": "Plano Anual",
+        "duration": "12",
+        "price": 100.00
+    },
+    "after": {
+        "title": "Plano Semestral",
+        "duration": "6",
+        "price": 50.00
+    }
+}
